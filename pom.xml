@@ -103,7 +103,7 @@
               <artifact>junit:junit</artifact>
               <!--<excludeDefaults>false</excludeDefaults>-->
               <includes>
-                <include>junit/textui/**</include>
+                <include>junit/textui/ResultPrinter.class</include>
               </includes>
             </filter>
           </filters>
